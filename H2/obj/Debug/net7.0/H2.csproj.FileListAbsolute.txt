@@ -1,0 +1,15 @@
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\bin\Debug\net7.0\H2.exe
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\bin\Debug\net7.0\H2.deps.json
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\bin\Debug\net7.0\H2.runtimeconfig.json
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\bin\Debug\net7.0\H2.dll
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\bin\Debug\net7.0\H2.pdb
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\H2.csproj.AssemblyReference.cache
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\H2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\H2.AssemblyInfoInputs.cache
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\H2.AssemblyInfo.cs
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\H2.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\H2.dll
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\refint\H2.dll
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\H2.pdb
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\H2.genruntimeconfig.cache
+C:\Users\Георгий\Desktop\Учеба айти\8sem\H2\obj\Debug\net7.0\ref\H2.dll
